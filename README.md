@@ -85,9 +85,9 @@ pnpm run dev
 ```
 
 **Access Points:**
-- Frontend: http://localhost:5173
-- Backend API: http://localhost:3000/api
-- Dashboard: http://localhost:5173/dashboard (Password: `BLUEORCHIDS2K26`)
+- Frontend: http://blueorchids2k26.lovable.app
+- Backend API: [http://localhost:3000/api](http://blueorchids2k26.lovable.app)
+- Dashboard: [http://localhost:5173/dashboard](http://blueorchids2k26.lovable.app) (Password: `BLUEORCHIDS2K26`)
 
 ## 📋 Pages
 
